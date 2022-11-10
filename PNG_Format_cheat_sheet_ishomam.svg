@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="318.44mm"
-   height="436.26965mm"
-   viewBox="0 0 318.44001 436.26965"
+   width="321.38583mm"
+   height="441.2735mm"
+   viewBox="0 0 321.38584 441.27349"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="PNG_Format_explanation.svg"
+   sodipodi:docname="PNG_Format_cheat_sheet_ishomam.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.53984845"
-     inkscape:cx="536.26161"
-     inkscape:cy="1005.8378"
+     inkscape:cx="721.49878"
+     inkscape:cy="733.5392"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -38,7 +38,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1.1840756,1.3690654)">
+     transform="translate(5.1324023,1.6415922)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect1242"
+       width="321.08585"
+       height="440.97351"
+       x="-4.9824023"
+       y="-1.4915922" />
     <text
        xml:space="preserve"
        style="font-size:7.25896px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -252,15 +259,15 @@
        transform="translate(11.066458,-16.365817)"><tspan
          x="143.24687"
          y="50.953022"
-         id="tspan751459"><tspan
+         id="tspan3666"><tspan
    style="baseline-shift:super"
-   id="tspan751457">1</tspan> number of bytes in the chunk's data field. </tspan><tspan
+   id="tspan3664">1</tspan> number of bytes in the chunk's data field. </tspan><tspan
          x="143.24687"
          y="54.480796"
-         id="tspan751461">The length counts only the data field, not </tspan><tspan
+         id="tspan3668">The length counts only the data field, not </tspan><tspan
          x="143.24687"
          y="58.008571"
-         id="tspan751463">itself, the chunk type code, or the CRC</tspan></text>
+         id="tspan3670">itself, the chunk type code, or the CRC</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:55.3497;stroke-width:0.264583"
@@ -270,13 +277,13 @@
        transform="translate(11.066458,-4.4618355)"><tspan
          x="143.24687"
          y="50.953022"
-         id="tspan751467"><tspan
+         id="tspan3674"><tspan
    style="baseline-shift:super"
-   id="tspan751465">2</tspan> corresponds to chunk name &quot;IHDR&quot; in bytes
+   id="tspan3672">2</tspan> corresponds to chunk name &quot;IHDR&quot; in bytes
 </tspan><tspan
          x="143.24687"
          y="54.480796"
-         id="tspan751469">representation</tspan></text>
+         id="tspan3676">representation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:51.5376;stroke-width:0.264583"
@@ -286,15 +293,15 @@
        transform="translate(11.066458,3.9784584)"><tspan
          x="143.24687"
          y="50.953022"
-         id="tspan751473"><tspan
+         id="tspan3680"><tspan
    style="baseline-shift:super"
-   id="tspan751471">3</tspan> calculated on the preceding bytes in the </tspan><tspan
+   id="tspan3678">3</tspan> calculated on the preceding bytes in the </tspan><tspan
          x="143.24687"
          y="54.480796"
-         id="tspan751475">chunk, including the chunk type and chunk </tspan><tspan
+         id="tspan3682">chunk, including the chunk type and chunk </tspan><tspan
          x="143.24687"
          y="58.008571"
-         id="tspan751477">data, but not including the length field</tspan></text>
+         id="tspan3684">data, but not including the length field</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.82222px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:51.5376;stroke-width:0.264583"
@@ -304,64 +311,64 @@
        id="text648587"><tspan
          x="143.24687"
          y="50.953022"
-         id="tspan751481"><tspan
+         id="tspan3688"><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan751479">1</tspan> see RFC 1950
+   id="tspan3686">1</tspan> see RFC 1950
 </tspan><tspan
          x="143.24687"
          y="54.480796"
-         id="tspan751485"><tspan
+         id="tspan3692"><tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan751483">2</tspan> see RFC 1951  
+   id="tspan3690">2</tspan> see RFC 1951  
 </tspan><tspan
          x="143.24687"
          y="58.008571"
-         id="tspan751487">   - based on LZ77 and Huffman coding 
+         id="tspan3694">   - based on LZ77 and Huffman coding 
 </tspan><tspan
          x="143.24687"
          y="61.536346"
-         id="tspan751489">   - consists of many blocks with unlimited    </tspan><tspan
+         id="tspan3696">   - consists of many blocks with unlimited    </tspan><tspan
          x="143.24687"
          y="65.064121"
-         id="tspan751491">length, however, if a block is uncompressed </tspan><tspan
+         id="tspan3698">length, however, if a block is uncompressed </tspan><tspan
          x="143.24687"
          y="68.591899"
-         id="tspan751493">(no compression option is chosen, block </tspan><tspan
+         id="tspan3700">(no compression option is chosen, block </tspan><tspan
          x="143.24687"
          y="72.119678"
-         id="tspan751495">length should be limited to 32 Kb)
+         id="tspan3702">length should be limited to 32 Kb)
 </tspan><tspan
          x="143.24687"
          y="75.647456"
-         id="tspan751497">
+         id="tspan3704">
 </tspan><tspan
          x="143.24687"
          y="79.175235"
-         id="tspan751503"><tspan
+         id="tspan3710"><tspan
            style="font-size:65%;baseline-shift:super;fill:#b50000"
-           id="tspan751499">3</tspan><tspan
+           id="tspan3706">3</tspan><tspan
            style="fill:#b50000"
-           id="tspan751501"> calculated on all uncompressed data that </tspan></tspan><tspan
+           id="tspan3708"> calculated on all uncompressed data that </tspan></tspan><tspan
          x="143.24687"
          y="82.703014"
-         id="tspan751507"><tspan
+         id="tspan3714"><tspan
            style="fill:#b50000"
-           id="tspan751505">went into the stream (combing all data </tspan></tspan><tspan
+           id="tspan3712">went into the stream (combing all data </tspan></tspan><tspan
          x="143.24687"
          y="86.230792"
-         id="tspan751511"><tspan
+         id="tspan3718"><tspan
            style="fill:#b50000"
-           id="tspan751509">that1went to compression in all IDATs). It </tspan></tspan><tspan
+           id="tspan3716">that1went to compression in all IDATs). It </tspan></tspan><tspan
          x="143.24687"
          y="89.758571"
-         id="tspan751515"><tspan
+         id="tspan3722"><tspan
            style="fill:#b50000"
-           id="tspan751513">can be calculated progressively meaning </tspan></tspan><tspan
+           id="tspan3720">can be calculated progressively meaning </tspan></tspan><tspan
          x="143.24687"
          y="93.28635"
-         id="tspan751519"><tspan
+         id="tspan3726"><tspan
            style="fill:#b50000"
-           id="tspan751517">cumulatively</tspan></tspan></text>
+           id="tspan3724">cumulatively</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.64762px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -502,7 +509,7 @@
        transform="translate(13.758334,-0.24832187)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751521">(0 for all blocks, 1 for last block in the stream)</tspan></text>
+         id="tspan3728">(0 for all blocks, 1 for last block in the stream)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:82.5835;stroke-width:0.264583"
@@ -512,7 +519,7 @@
        transform="translate(13.902007,8.7083011)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751523">(00 if no compression)</tspan></text>
+         id="tspan3730">(00 if no compression)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:92.1406;stroke-width:0.264583"
@@ -522,11 +529,11 @@
        transform="translate(13.639282,19.37347)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751525">Exist only if [no compression]
+         id="tspan3732">Exist only if [no compression]
 </tspan><tspan
          x="154.42152"
          y="244.4477"
-         id="tspan751527">NLEN = (2 byte int max - LEN)= (32767 - LEN)</tspan></text>
+         id="tspan3734">NLEN = (2 byte int max - LEN)= (32767 - LEN)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -1688,7 +1695,7 @@
        transform="translate(13.758334,90.726911)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751529">(0 for all blocks, 1 for last block in the stream)</tspan></text>
+         id="tspan3736">(0 for all blocks, 1 for last block in the stream)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:82.5835;stroke-width:0.264583"
@@ -1698,7 +1705,7 @@
        transform="translate(13.902007,99.683501)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751531">(00 if no compression)</tspan></text>
+         id="tspan3738">(00 if no compression)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;white-space:pre;inline-size:92.1406;stroke-width:0.264583"
@@ -1708,11 +1715,11 @@
        transform="translate(13.639282,110.34867)"><tspan
          x="154.42152"
          y="239.15605"
-         id="tspan751533">Exist only if [no compression]
+         id="tspan3740">Exist only if [no compression]
 </tspan><tspan
          x="154.42152"
          y="244.4477"
-         id="tspan751535">NLEN = (2 byte int max - LEN)= (32767 - LEN)</tspan></text>
+         id="tspan3742">NLEN = (2 byte int max - LEN)= (32767 - LEN)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -2144,5 +2151,16 @@
        height="26.858215"
        x="259.85306"
        y="398.53033" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.64762px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;text-anchor:start;fill:#009100;stroke-width:0.264583"
+       x="256.46771"
+       y="6.4424682"
+       id="text21749-3-5-97-2-1-9-7-2"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#009100;stroke-width:0.264583"
+         x="256.46771"
+         y="6.4424682"
+         id="tspan575862-7-7">Source: github.com/ishomam</tspan></text>
   </g>
 </svg>
